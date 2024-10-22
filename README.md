@@ -10,7 +10,8 @@
 
 ## **<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=%F0%9F%A7%B8+VIDEO+Am+LORD+MD+%E2%9C%A8%EF%B8%8F" alt="Typing SVG" /></a>**
 
-https://telegra.ph/file/b53dcabed5fa2e0fa8739.jpg
+ </a><a><img src='https://telegra.ph/file/b53dcabed5fa2e0fa8739.jpg'/></a>
+<p align="center">
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -102,7 +103,7 @@ https://telegra.ph/file/b53dcabed5fa2e0fa8739.jpg
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🫅How_to_deploy-grey.svg)](https://youtube.com/@malvintech2?si=XxuM984u40ZiC2WG)
 
- # ⚡ LORD MD INFO
+ # ⚡ MALVIN MD INFO
 
  
 ℹ️  <a href="https://github.com/kingmalvn/LORD-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
@@ -126,5 +127,3 @@ https://telegra.ph/file/b53dcabed5fa2e0fa8739.jpg
 
 ## Features
 
-
-**MADE FROM BMW-MD BASE**
