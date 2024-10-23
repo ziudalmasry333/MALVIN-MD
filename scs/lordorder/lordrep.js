@@ -31,8 +31,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
       owner,
     } = repoData;
 
-    const messageText = `
-╭──────────────
+    const messageText = `╭──────────────
 │ 😎 ʙᴏᴛ ɴᴀᴍᴇ: ${name}
 │ 📌 ᴠᴇʀꜱɪᴏɴ : 7.1.3
 │ ✨ ꜱᴛᴀʀꜱ:  ${stargazers_count}
