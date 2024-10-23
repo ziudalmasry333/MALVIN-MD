@@ -24,7 +24,7 @@
 <p/>                                                                                                                                                    <p align="center">
 <a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/MALVIN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/RAVENS-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/MALVIN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/MALVIN-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
