@@ -7,7 +7,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start body.js --deep-monitoring --attach --name MALVIN-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-MD",
     "stop": "pm2 stop MALVIN-MD",
     "restart": "pm2 restart MALVIN-MD"
   },
