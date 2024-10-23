@@ -1,4 +1,14 @@
-## **<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=EFFF00&center=true&repeat=false&width=435&lines=WELCOME+TO+MALVIN+MD+%F0%9F%91%8B+" alt="Typing SVG" /></a>**
+<div align="center">
+  <p align="center">
+
+   
+### *WELCOME TO MALVIN MD BOT*
+
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝐌𝐀𝐋𝐕𝐈𝐍+MD+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐋𝐎𝐑𝐃+𝐌𝐀𝐋𝐕𝐈𝐍+𝗦𝗘𝗥;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+
+ </a>
+</p>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
