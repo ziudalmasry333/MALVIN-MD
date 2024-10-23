@@ -10,7 +10,7 @@
 
 ## **<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=%F0%9F%A7%B8+Hi+Am+𝙼𝙰𝙻𝚅𝙸𝙽+𝙼𝙳+%E2%9C%A8%EF%B8%8F" alt="Typing SVG" /></a>**
 
- </a><a><img src='https://telegra.ph/file/b53dcabed5fa2e0fa8739.jpg'/></a>
+ </a><a><img src='https://g.top4top.io/p_3218pggm51.jpg'/></a>
 <p align="center">
 
 <!-- RAINBOW LINE BOT -->
