@@ -4,7 +4,7 @@
   "name": "MALVIN-MD",
   "version": "10.8.1",
   "description": "𝙱𝚎𝚜𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝙱𝚢 𝙼𝚊𝚕𝚟𝚒𝚗 𝚃𝚎𝚌𝚑 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 263780166288, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚌𝚑𝚘𝚘sing 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳.",
-  "main": "body.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "pm2 start body.js --deep-monitoring --attach --name MALVIN-MD",
