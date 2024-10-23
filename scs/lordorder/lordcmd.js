@@ -22,7 +22,7 @@ const alive = async (m, Matrix) => {
 │ 🪩 ᴘʟᴀᴛғᴏʀᴍ: *ʟɪɴᴜx*
 │ 💾 ʀᴀᴍ : *128GB
 │ 📱 ᴅᴀɪʟʏ ᴜsᴇʀs : *${forks_count}*
-│ 💫 ᴘʀᴇғɪx: *${prefix}*
+│ 💫 ᴘʀᴇғɪx: ${prefix}
 ╰───────────────
 
 
