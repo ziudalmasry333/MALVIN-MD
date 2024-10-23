@@ -17,16 +17,16 @@ const alive = async (m, Matrix) => {
 
   const uptimeMessage = `╭──────────────
 │ 😎 ʙᴏᴛ ɴᴀᴍᴇ: 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳
-│ 📌 ᴠᴇʀꜱɪᴏɴ: 7.1.0
+│ 📌 ᴠᴇʀꜱɪᴏɴ: 7.1.3
 │ 👱 ᴏᴡɴᴇʀ : 𝙻𝚘𝚛𝚍 𝙼𝚊𝚕𝚟𝚒𝚗
 │ 🪩 ᴘʟᴀᴛғᴏʀᴍ: *ʟɪɴᴜx*
-│ 💾 ʀᴀᴍ : *128GB
+│ 💾 ʀᴀᴍ : *128GB*
 │ 📱 ᴅᴀɪʟʏ ᴜsᴇʀs : *${forks_count}*
 │ 💫 ᴘʀᴇғɪx: ${prefix}
 ╰───────────────
 
 
-> *MALVIN MD COMMAND LIST*
+> 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃
 
  *This commands will guide*
  *you on how to use 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳*
@@ -127,9 +127,9 @@ ${prefix}𝙻𝚢𝚛𝚒𝚌𝚜
 ◣━━━━━━━━━━━◢
 
 
-*MORE COMMANDS*
-*WILL BE UPLOADED*
-*SOON*
+ 𝙼𝙾𝚁𝙴 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂
+ 𝚆𝙸𝙻𝙻 𝙱𝙴 𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝙳 
+ 𝚂𝙾𝙾𝙽🫡
 
 
 `;
@@ -139,7 +139,7 @@ ${prefix}𝙻𝚢𝚛𝚒𝚌𝚜
         "name": "quick_reply",
         "buttonParamsJson": JSON.stringify({
           display_text: "BOT REPO",
-          id: `${prefix}repo`
+          id: `${prefix}repo`,
         })
       }
     ];
@@ -173,7 +173,7 @@ ${prefix}𝙻𝚢𝚛𝚒𝚌𝚜
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '263780166288',
-                  newsletterName: "MALVIN MD",
+                  newsletterName: "MALVIN-MD",
                   serverMessageId: 143
                 }
               }
