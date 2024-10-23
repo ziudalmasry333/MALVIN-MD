@@ -138,7 +138,7 @@ ${prefix}𝙻𝚢𝚛𝚒𝚌𝚜
         "name": "quick_reply",
         "buttonParamsJson": JSON.stringify({
           display_text: "BOT REPO",
-          id: `${prefix}repo`,
+          id: `${prefix}repo`
         })
       }
     ];
