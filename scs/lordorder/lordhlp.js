@@ -87,21 +87,21 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "*😎MALVIN REPO*",
+                    display_text: "😎 MALVIN REPO",
                     url: 'https://github.com/kingmalvn/MALVIN-MD',
                   }),
                 },
                 {
                  name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "📱*How to deploy*",
+                    display_text: "📱 How to deploy",
                     url: 'https://www.youtube.com/@malvintech2',
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "🥤*WHATSAPP CHANNEL*",
+                    display_text: "🥤 WHATSAPP CHANNEL",
                     url: 'https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z',
                   }),
                 },
