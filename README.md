@@ -61,7 +61,7 @@
 
 ***
 
-♾️  GET BUTTON BOT SESSION ON [ Pair sessions]
+♾️  GET BOT SESSION ON 🫡👇👇
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🫅BUTTON_BOT_Click_Here-blue.svg)](https://ibrahim-adam-c5b1ef481932.herokuapp.com/)
 
