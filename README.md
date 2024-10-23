@@ -8,7 +8,7 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## **<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=%F0%9F%A7%B8+VIDEO+Am+LORD+MD+%E2%9C%A8%EF%B8%8F" alt="Typing SVG" /></a>**
+## **<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=%F0%9F%A7%B8+Hi+Am+𝙼𝙰𝙻𝚅𝙸𝙽+𝙼𝙳+%E2%9C%A8%EF%B8%8F" alt="Typing SVG" /></a>**
 
  </a><a><img src='https://telegra.ph/file/b53dcabed5fa2e0fa8739.jpg'/></a>
 <p align="center">
@@ -83,7 +83,7 @@
 
 ♾️  DEPLOY MALVIN MD BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)]('https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MD/tree/main')
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MD/tree/main)
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🫅How_to_deploy-grey.svg)](https://youtube.com/@malvintech2?si=XxuM984u40ZiC2WG)
 
