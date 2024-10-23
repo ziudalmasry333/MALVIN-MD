@@ -31,19 +31,16 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
       owner,
     } = repoData;
 
-    const messageText = `╭═════❐ 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 ❐═⊷ 
-┃╭──────────────
-┃│ 🤖 ʙᴏᴛ ɴᴀᴍᴇ: 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳
-┃│ 📌 ᴠᴇʀꜱɪᴏɴ: 8.1.0
-┃│ 👱 ᴏᴡɴᴇʀ : 𝙻𝚘𝚛𝚍 𝙼𝚊𝚕𝚟𝚒𝚗
-┃│ 🪩 ᴘʟᴀᴛғᴏʀᴍ: *ʟɪɴᴜx*
-┃│ 💾 ʀᴀᴍ : *128GB*
-┃│ 📱 ᴅᴀɪʟʏ ᴜsᴇʀs : *${forks_count}*
-┃│ 📆 ᴄʀᴇᴀᴛᴇᴅ ᴏɴ : *${new Date(created_at).toLocaleDateString()}*
-┃│ 
-┃│  𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴
-┃╰───────────────
-╰═════════════════⊷
+    const messageText = `╭──────────────
+│ 😎 ʙᴏᴛ ɴᴀᴍᴇ: *𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳*
+│ 📌 ᴠᴇʀꜱɪᴏɴ: *_7.1.0_*
+│ 👱 ᴏᴡɴᴇʀ : *𝙻𝚘𝚛𝚍 𝙼𝚊𝚕𝚟𝚒𝚗*
+│ 🪩 ᴘʟᴀᴛғᴏʀᴍ: *ʟɪɴᴜx*
+│ 💾 ʀᴀᴍ : *128GB*
+│ 📱 ᴅᴀɪʟʏ ᴜsᴇʀs : *${forks_count}*
+│ 📆 ᴄʀᴇᴀᴛᴇᴅ ᴏɴ : *${new Date(created_at).toLocaleDateString()}*
+╰───────────────
+
     `;
 
     const repoMessage = generateWAMessageFromContent(m.from, {
@@ -76,7 +73,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'quick_reply',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "📃 COMMAND LIST",
+                    display_text: "Commands😎",
                     id: ".command",
                   }),
                 },
@@ -90,21 +87,21 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "📂 REPO",
+                    display_text: "*😎MALVIN REPO*",
                     url: 'https://github.com/kingmalvn/MALVIN-MD',
                   }),
                 },
                 {
                  name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "📽 HOW TO DEPLOY",
+                    display_text: "📱*How to deploy*",
                     url: 'https://www.youtube.com/@malvintech2',
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "🥤 WHATSAPP CHANNEL",
+                    display_text: "🥤*WHATSAPP CHANNEL*",
                     url: 'https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z',
                   }),
                 },
