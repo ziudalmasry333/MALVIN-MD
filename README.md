@@ -109,7 +109,7 @@
 
 ♾️  DEPLOY ON [ Panel ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅Click_Here-blue.svg)](https://toystack.ai)
+[![Find On Whatsapp ](https://img.shields.io/badge/🫅Click_Here-blue.svg)](https://account.solarhosting.cc/register?ref=sWDesIAr)
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🫅How_to_deploy-grey.svg)](https://youtube.com/@malvintech2?si=XxuM984u40ZiC2WG)
 
