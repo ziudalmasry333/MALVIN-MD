@@ -142,5 +142,27 @@ ONE 🫡👇👇
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## Features
+## NOTE:
+
+<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+* [🧑‍💻 Follow Malvin Md Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
+
+* [🧑‍💻 Join malvin tech Telegram  🧑‍💻](https://t.me/malvintech)
+
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/GFp6TrVc6ebAPK9qIsEu50)
+
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+
+- *MALVIN MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use MALVIN MD at your own risk by keeping this warning in mind.*
+  
+  #### ```MALVIN KING PROFILE VIEWS 🥰```
+![Visitor Count](https://profile-counter.glitch.me/kingmalvn/count.svg)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
