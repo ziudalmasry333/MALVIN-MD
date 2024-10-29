@@ -61,12 +61,20 @@
   <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 
 ***
+#### SETUP
 
-♾️  GET BOT SESSION ON 🫡👇👇
+1. Fork the repo
+    <br>
+<a href='https://github.com/kingmalvn/MALVIN-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=blue'/></a>
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅PAIR_SESSION_Click_Here-blue.svg)](https://replit.com/@malvink003/MALVIN-MD?v=1)
+
+2. Get Session ID 
+    <br>
+<a href='https://replit.com/@malvink003/MALVIN-MD?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=replit&logoColor=white&labelColor=black&color=red'/></a>
 
 
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 ***
