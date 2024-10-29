@@ -13,12 +13,12 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
     if (text === 'on') {
       config.ALWAYS_ONLINE = true;
-      responseMessage = "Always Online has been enabled.";
+      responseMessage = "Always Online has been activated😎.";
     } else if (text === 'off') {
       config.ALWAYS_ONLINE = false;
-      responseMessage = "Always Online has been disabled.";
+      responseMessage = "Always Online has been deactivated🥱.";
     } else {
-      responseMessage = "Usage:\n- `alwaysonline on`: Enable Always Online\n- `alwaysonline off`: Disable Always Online";
+      responseMessage = "Usage:\n- `alwaysonline on`: Activate Always Online\n- `alwaysonline off`: Deactivate Always Online";
     }
 
     try {
