@@ -11,17 +11,17 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
   const validCommands = ['autostatus', 'autosview', 'autostatusview'];
 
  if (validCommands.includes(cmd)){
-   if (!isCreator) return m.reply("*📛 THIS IS AN OWNER COMMAND*");
+   if (!isCreator) return m.reply("*📛 THIS IS AN OWNER COMMAND😌*");
     let responseMessage;
 
     if (text === 'on') {
       config.AUTO_STATUS_SEEN = true;
-      responseMessage = "AUTO STATUS SEEN has been enabled.";
+      responseMessage = "AUTO STATUS SEEN has been activated.";
     } else if (text === 'off') {
       config.AUTO_STATUS_SEEN = false;
-      responseMessage = "AUTO STATUS SEEN has been disabled.";
+      responseMessage = "AUTO STATUS SEEN has been deactivated.";
     } else {
-      responseMessage = `Usage:\n- *${prefix + cmd} ON:* Enable AUTO STATUS VIEW\n- *${prefix + cmd} off:* Disable AUTO STATUS SEEN`;
+      responseMessage = `Usage:\n- *${prefix + cmd} ON:* Activate AUTO STATUS VIEW\n- *${prefix + cmd} off:* Deactivate AUTO STATUS SEEN`;
     }
 
     try {
