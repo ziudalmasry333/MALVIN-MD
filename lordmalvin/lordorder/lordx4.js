@@ -8,17 +8,17 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
 const text = m.body.slice(prefix.length + cmd.length).trim();
 
   if (cmd === 'autoblock') {
-    if (!isCreator) return m.reply("*THIS IS AN OWNER COMMAND*");
+    if (!isCreator) return m.reply("*⚠️THIS IS AN OWNER COMMAND🥱*");
     let responseMessage;
 
     if (text === 'on') {
       config.AUTO_BLOCK = true;
-      responseMessage = "Auto-Block has been enabled.";
+      responseMessage = "Auto-Block has been activated📵.";
     } else if (text === 'off') {
       config.AUTO_BLOCK = false;
-      responseMessage = "Auto-Block has been disabled.";
+      responseMessage = "Auto-Block has been deactivated📳.";
     } else {
-      responseMessage = "Usage:\n- `autoblock on`: Enable Auto-Block\n- `autoblock off`: Disable Auto-Block";
+      responseMessage = "Usage:\n- `autoblock on`: Activate Auto-Block\n- `autoblock off`: Deactivate Auto-Block";
     }
     try {
       await Matrix.sendMessage(m.from, { text: responseMessage }, { quoted: m });
