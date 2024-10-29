@@ -13,12 +13,12 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
     if (text === 'on') {
       config.AUTO_RECORDING = true;
-      responseMessage = "Auto-Recording has been enabled.";
+      responseMessage = "Auto-Recording has been activated🎙.";
     } else if (text === 'off') {
       config.AUTO_RECORDING = false;
-      responseMessage = "Auto-Recording has been disabled.";
+      responseMessage = "Auto-Recording has been deactivated📵.";
     } else {
-      responseMessage = "Usage:\n- `autorecording on`: Enable Auto-Recording\n- `autorecording off`: Disable Auto-Recording";
+      responseMessage = "Usage:\n- `autorecording on`: Activated Auto-Recording\n- `autorecording off`: Deactivated Auto-Recording";
     }
 
     try {
