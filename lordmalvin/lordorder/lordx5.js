@@ -13,12 +13,12 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
     if (text === 'on') {
       config.AUTO_REACT = true;
-      responseMessage = "AUTO_REACT has been enabled.";
+      responseMessage = "AUTO_REACT has been activated.";
     } else if (text === 'off') {
       config.AUTO_REACT = false;
-      responseMessage = "AUTO_REACT has been disabled.";
+      responseMessage = "AUTO_REACT has been deactivated.";
     } else {
-      responseMessage = "Usage:\n- `autoreact on`: Enable Auto-React\n- `autoreact off`: Disable Auto-React";
+      responseMessage = "Usage:\n- `autoreact on`: Activate Auto-React\n- `autoreact off`: Deactivate Auto-React";
     }
 
     try {
