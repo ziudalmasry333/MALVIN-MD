@@ -8,17 +8,17 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
 const text = m.body.slice(prefix.length + cmd.length).trim();
 
   if (cmd === 'autotyping') {
-    if (!isCreator) return m.reply("*📛 THIS IS AN OWNER COMMAND*");
+    if (!isCreator) return m.reply("*📛 THIS IS AN OWNER COMMAND🥱*");
     let responseMessage;
 
     if (text === 'on') {
       config.AUTO_TYPING = true;
-      responseMessage = "Auto-Typing has been enabled.";
+      responseMessage = "Auto-Typing has been activated.";
     } else if (text === 'off') {
       config.AUTO_TYPING = false;
-      responseMessage = "Auto-Typing has been disabled.";
+      responseMessage = "Auto-Typing has been deactivated.";
     } else {
-      responseMessage = "Usage:\n- `autotyping on`: Enable Auto-Typing\n- `autotyping off`: Disable Auto-Typing";
+      responseMessage = "Usage:\n- `autotyping on`: Activate Auto-Typing\n- `autotyping off`: Deactivate Auto-Typing";
     }
 
     try {
