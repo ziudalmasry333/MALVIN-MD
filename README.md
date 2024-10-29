@@ -70,7 +70,7 @@
 
 2. Get Session ID 
     <br>
-<a href='https://replit.com/@malvink003/MALVIN-MD?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=replit&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://ibrahim-adam-c5b1ef481932.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=blue'/></a>
 
 
 <!-- RAINBOW LINE BOT -->
