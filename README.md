@@ -70,12 +70,6 @@ Welcome to my awesome project! Here you'll find...
 Check out my YouTube channel for tutorials and more!
 
 [![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@malvintech2)
-## WhatsApp Channel
-
-Join our WhatsApp channel for updates and discussions!
-
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
-
 
 ## SETUP
 
@@ -146,14 +140,12 @@ ONE 🫡👇👇
 
 </p>
    
-##
 
+## WhatsApp Channel
 
-## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
-<a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+Join our WhatsApp channel for updates and discussions!
+
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
 
 
 <!-- RAINBOW LINE BOT -->
