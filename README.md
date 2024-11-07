@@ -145,14 +145,14 @@ Check out my YouTube channel for tutorials and more!
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+***
 
-
-#   ❤️Supporters I Love You All🥰❤️
+#   **❤️Supporters I Love You All🥰❤️**
 [![Stargazers repo roster for @kingmalvn/MALVIN-MD](http://reporoster.com/stars/dark/kingmalvn/MALVIN-MD)](https://github.com/betingrich3/kingmalvn/MALVIN-MD)
      
 [![Forkers repo roster for @kingmalvn/MALVIN-MD](http://reporoster.com/forks/dark/kingmalvn/MALVIN-MD)](https://github.com/kingmalvn/MALVIN-MD/network/members)
 
-
+***
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
