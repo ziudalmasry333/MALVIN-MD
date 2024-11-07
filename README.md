@@ -84,6 +84,12 @@ Check out my YouTube channel for tutorials and more!
     <br>
 <a href='https://ibrahim-adam-c5b1ef481932.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=red&color=blue'/></a>
 
+    **2nd Session**
+   <br>
+   <br>
+<a href='https://replit.com/@malvink003/MALVIN-MD?v=1#main.sh' target="_blank"><img alt='REPLIT PAIR' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=replit&logoColor=white&labelColor=white&color=red'/></a>
+
+
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
