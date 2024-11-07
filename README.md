@@ -93,35 +93,41 @@ Check out my YouTube channel for tutorials and more!
 
 
 
-## 🫅LORD MALVIN💫
+**🫅LORD MALVIN💫**
 
 ***
 
-⚜️  CREATE A HEROKU ACCOUNT
+⚜️  **CREATE A HEROKU ACCOUNT**
     <br>
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Create Account' src='https://img.shields.io/badge/Create Account-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black&color=blue'/></a>
 
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-♾️  DEPLOY MALVIN MD BOT *[ HEROKU ]*
+♾️  **DEPLOY MALVIN MD BOT**  **[ HEROKU ]**
     <br>
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MD/tree/main' target="_blank"><img alt='Heroku Deploy' src='https://img.shields.io/badge/Heroku Deploy-100000?style=for-the-badge&logo=heroku&logoColor=blue&labelColor=black&color=purple'/></a>
 
-***
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-♾️  DEPLOY ON [ RENDER ]
+
+♾️  **DEPLOY ON**  **[ RENDER ]**
     <br>
     <br>
 <a href='https://render.com' target="_blank"><img alt='Render Deploy' src='https://img.shields.io/badge/Render Deploy-100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
-***
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-**𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗** **[PANEL]**
+
+🆓️  **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗** **[PANEL]**
 <details>
 <summary>CLICK FOR MORE</summary>
  
@@ -152,10 +158,10 @@ Check out my YouTube channel for tutorials and more!
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
- # ⚡ MALVIN MD INFO
-
- 
-ℹ️  <a href="https://github.com/kingmalvn/LORD-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+ ⚡ **MALVIN MD INFO**
+   <br>
+   <br>
+ <a href="https://github.com/kingmalvn/LORD-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 ***
 
