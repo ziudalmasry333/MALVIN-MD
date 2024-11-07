@@ -100,7 +100,7 @@ Check out my YouTube channel for tutorials and more!
 ⚜️  CREATE A HEROKU ACCOUNT
     <br>
     <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Create Account' src='https://img.shields.io/badge/Create Account-100000?style=for-the-badge&logo=heroku&logoColor=blue&labelColor=black&color=white'/></a>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Create Account' src='https://img.shields.io/badge/Create Account-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black&color=blue'/></a>
 
 
 
