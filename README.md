@@ -87,7 +87,7 @@ Check out my YouTube channel for tutorials and more!
     **2nd Session**
    <br>
    <br>
-<a href='https://replit.com/@malvink003/MALVIN-MD?v=1#main.sh' target="_blank"><img alt='REPLIT PAIR' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=replit&logoColor=white&labelColor=white&color=red'/></a>
+<a href='https://replit.com/@malvink003/MALVIN-MD?v=1#main.sh' target="_blank"><img alt='REPLIT PAIR' src='https://img.shields.io/badge/Replit_Session-100000?style=for-the-badge&logo=replit&logoColor=red&labelColor=white&color=black'/></a>
 
 
 
