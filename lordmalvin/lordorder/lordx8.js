@@ -8,7 +8,7 @@ const anticallCommand = async (m, Matrix) => {
 const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
 const text = m.body.slice(prefix.length + cmd.length).trim();
   
-  const validCommands = ['autostatus', 'autosview', 'autostatusview'];
+  const validCommands = ['autostatus', 'autosview' ,'status', 'autostatusview'];
 
  if (validCommands.includes(cmd)){
    if (!isCreator) return m.reply("*📛 THIS IS AN OWNER COMMAND😌*");

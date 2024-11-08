@@ -15,7 +15,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
     try {
       await m.React('🕘');
-      await m.reply('A moment, *LORD-MD* is generating your lyrics request...');
+      await m.reply('A moment, *MALVIN-MD* is generating your lyrics request...');
 
       if (!text.includes('|')) {
         return m.reply('Please provide the song name and artist name separated by a "|", for example: Spectre|Alan Walker.');

@@ -33,7 +33,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
 
     const messageText = `╭──────────────
 │ 😎 ʙᴏᴛ ɴᴀᴍᴇ: ${name}
-│ 📌 ᴠᴇʀꜱɪᴏɴ : 7.1.3
+│ 📌 ᴠᴇʀꜱɪᴏɴ : 8.1.3
 │ ✨ ꜱᴛᴀʀꜱ:  ${stargazers_count}
 │ 🧧 ꜰᴏʀᴋꜱ: ${forks_count}
 │ 📅 ʀᴇʟᴇᴀꜱᴇ ᴅᴀᴛᴇ: ${new Date(created_at).toLocaleDateString()}
@@ -61,7 +61,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://g.top4top.io/p_3218pggm51.jpg',
+                  url: 'https://files.catbox.moe/uxnee2.jpg',
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',

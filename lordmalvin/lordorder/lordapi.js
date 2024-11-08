@@ -28,7 +28,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
       const contentType = res.headers.get('content-type');
       if (!/text|json/.test(contentType)) {
-        await Matrix.sendMedia(m.from, url, 'file', '> Api Fetched From Ethix-MD', m);
+        await Matrix.sendMedia(m.from, url, 'file', '> Api Fetched From MALVIN-MD', m);
         return;
       }
 
